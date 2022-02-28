@@ -1,5 +1,5 @@
 {
-  "name": "KingOfBear",
+  "name": "Black BotZ",
   "version": "1.5.0",
   "description": "WhatsApp Bot",
   "depecrated": false,
@@ -19,13 +19,13 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/AlyaaXd/rfkbot",
+  "homepage": "https://github.com/hilmiganzbot12/SANZY",
   "author": {
-    "name": "KingOfBear"
+    "name": "Black BotZ"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlyaaXd/rfkbot.git"
+    "url": "git+https://github.com/hilmiganzbot12/SANZY.git"
   },
   "bugs": {
     "url": "https://github.com/AlyaaXd/rfkbot/issues"
